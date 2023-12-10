@@ -3,3 +3,6 @@ The frontend was developed by João Silva (up202107600). I use "Android Studio" 
 
 ## Android Studio Activities
 ### Login Screen
+The user logins (with username and password) here. There's a button to register, that leads us to the next activity.
+
+### Login Screen
